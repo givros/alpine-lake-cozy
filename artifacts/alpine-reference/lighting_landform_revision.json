@@ -1,0 +1,10 @@
+{
+  "revision": "reference_04",
+  "ridge_smoothing_maximum_metres": 5.954607009887695,
+  "snow_support_correspondence": "Exact source XY mapping, original deposit thickness retained",
+  "regrounded_trees": 825,
+  "sky_angular_offset": 0.23,
+  "source_camera_background_strength": 0.8,
+  "source_diffuse_sky_strength": 3.4,
+  "reason": "Correct thin warped spires and missing diffuse sky fill without globally brightening the sky or reducing source detail"
+}

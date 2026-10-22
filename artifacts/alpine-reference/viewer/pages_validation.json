@@ -1,0 +1,101 @@
+{
+  "siteBytes": 870675609,
+  "originalPublicBytes": 1722120580,
+  "compressedPublicBytes": 869563019,
+  "largestPublishedFileBytes": 50331648,
+  "visualComparison": [
+    {
+      "view": "reference",
+      "meanAbsoluteDifference": 4.000914494741656e-06,
+      "maxChannelDifference": 6,
+      "identicalPixels": false
+    },
+    {
+      "view": "cabin",
+      "meanAbsoluteDifference": 0.0,
+      "maxChannelDifference": 0,
+      "identicalPixels": true
+    },
+    {
+      "view": "bridge",
+      "meanAbsoluteDifference": 1.0573845450388662e-05,
+      "maxChannelDifference": 10,
+      "identicalPixels": false
+    }
+  ],
+  "browser": {
+    "url": "http://127.0.0.1:4184/alpine-lake-cozy/",
+    "backend": "WebGPU",
+    "errors": [],
+    "firstCompleteMs": 37106.60000000149,
+    "source": {
+      "originalMeshes": 78828,
+      "instances": 77616,
+      "staticBatches": 12
+    },
+    "resources": {
+      "geometries": 823,
+      "textures": 104,
+      "attributes": 512,
+      "indexAttributes": 321,
+      "storageAttributes": 2,
+      "indirectStorageAttributes": 2,
+      "readbackBuffers": 0,
+      "programs": 82,
+      "renderTargets": 5,
+      "total": 3659804959,
+      "texturesSize": 2615833136,
+      "attributesSize": 746336772,
+      "indexAttributesSize": 229487208,
+      "storageAttributesSize": 67108864,
+      "indirectStorageAttributesSize": 13520,
+      "readbackBuffersSize": 0,
+      "programsSize": 1025459
+    },
+    "framebuffer": [
+      1440,
+      810
+    ],
+    "retainedTriangles": 696407851,
+    "completed": 132,
+    "failedRequests": []
+  },
+  "baseline": {
+    "url": "http://127.0.0.1:4182/",
+    "backend": "WebGPU",
+    "errors": [],
+    "firstCompleteMs": 27526.10000000149,
+    "source": {
+      "originalMeshes": 78828,
+      "instances": 77616,
+      "staticBatches": 12
+    },
+    "resources": {
+      "geometries": 823,
+      "textures": 104,
+      "attributes": 512,
+      "indexAttributes": 321,
+      "storageAttributes": 2,
+      "indirectStorageAttributes": 2,
+      "readbackBuffers": 0,
+      "programs": 82,
+      "renderTargets": 5,
+      "total": 3659804959,
+      "texturesSize": 2615833136,
+      "attributesSize": 746336772,
+      "indexAttributesSize": 229487208,
+      "storageAttributesSize": 67108864,
+      "indirectStorageAttributesSize": 13520,
+      "readbackBuffersSize": 0,
+      "programsSize": 1025459
+    },
+    "framebuffer": [
+      1440,
+      810
+    ],
+    "retainedTriangles": 696407851,
+    "completed": 127,
+    "failedRequests": []
+  },
+  "geometryTexturesAndEffectsChanged": false
+}

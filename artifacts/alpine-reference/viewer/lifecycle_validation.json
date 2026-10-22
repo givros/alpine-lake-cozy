@@ -1,0 +1,104 @@
+{
+  "errors": [],
+  "fullscreen": [
+    {
+      "grown": {
+        "completed": 31,
+        "main": [
+          1920,
+          1080
+        ],
+        "reflection": [
+          1920,
+          1080
+        ],
+        "fullscreen": true
+      },
+      "paused": {
+        "active": false,
+        "fullscreen": true
+      },
+      "shrunk": {
+        "completed": 65,
+        "main": [
+          1440,
+          810
+        ],
+        "reflection": [
+          1440,
+          810
+        ]
+      },
+      "passed": true
+    },
+    {
+      "grown": {
+        "completed": 81,
+        "main": [
+          1601,
+          901
+        ],
+        "reflection": [
+          1601,
+          901
+        ],
+        "fullscreen": true
+      },
+      "paused": {
+        "active": false,
+        "fullscreen": true
+      },
+      "shrunk": {
+        "completed": 113,
+        "main": [
+          1440,
+          810
+        ],
+        "reflection": [
+          1440,
+          810
+        ]
+      },
+      "passed": true
+    }
+  ],
+  "measurements": {
+    "reverse": {
+      "gpuCompletionNotifications": {
+        "n": 951,
+        "meanMs": 16.66803364878957,
+        "p95Ms": 27,
+        "p99Ms": 39.29999999888241
+      },
+      "submissionIntervals": {
+        "n": 951,
+        "meanMs": 16.66687697161001,
+        "p95Ms": 17.199999999254942,
+        "p99Ms": 21
+      },
+      "cpuEncodeMs": 4.599999999627471,
+      "inflightLimit": 3
+    },
+    "errors": []
+  },
+  "reload": {
+    "before": {
+      "programs": 82,
+      "geometries": 823
+    },
+    "after": {
+      "programs": 82,
+      "geometries": 823,
+      "canvases": 1,
+      "completed": 11,
+      "errors": []
+    },
+    "passed": true
+  },
+  "noWebGPU": {
+    "message": "Error: WebGPU is required. Open this local viewer in a WebGPU-capable desktop browser.",
+    "submitted": 0,
+    "passed": true
+  },
+  "scope": "Owned isolated headless Chromium, real fullscreen APIs and physical GPU buffers; no physical-device or user-browser Escape test. Reverse frame pacing is reported separately for submit intervals and GPU-completion notification delivery."
+}

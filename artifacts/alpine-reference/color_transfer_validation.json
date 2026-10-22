@@ -1,0 +1,133 @@
+{
+  "precision_restored": [
+    {
+      "mesh": "Surroundings_Continuous_Valley_36",
+      "vertices": 290938,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Terrain_Continuous_Shore",
+      "vertices": 60516,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Alpine_Massif_Measured",
+      "vertices": 1638400,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Living_Grass_Prototype_0",
+      "vertices": 792,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Living_Grass_Prototype_1",
+      "vertices": 792,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Living_Grass_Prototype_2",
+      "vertices": 792,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Living_Grass_Prototype_3",
+      "vertices": 792,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Living_Grass_Prototype_4",
+      "vertices": 792,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "Living_Grass_Prototype_5",
+      "vertices": 792,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.002",
+      "vertices": 12892,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.002",
+      "vertices": 44259,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.002",
+      "vertices": 5368447,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.002",
+      "vertices": 3325,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.004",
+      "vertices": 5774,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.004",
+      "vertices": 41051,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.004",
+      "vertices": 2901312,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.004",
+      "vertices": 3325,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.001",
+      "vertices": 5750,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.001",
+      "vertices": 597984,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.001",
+      "vertices": 2419,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    },
+    {
+      "mesh": "NurbsPath.001",
+      "vertices": 24161,
+      "active_color_component": "FLOAT32",
+      "source_match": "exact source point-colour values"
+    }
+  ],
+  "geometry_positions": "unchanged",
+  "indices": "unchanged",
+  "images": "unchanged"
+}

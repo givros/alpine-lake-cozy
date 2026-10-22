@@ -1,0 +1,396 @@
+{
+  "timestamp": "2026-10-22T12:07:07.292Z",
+  "browser": "156.0.8078.4",
+  "viewport": [
+    1440,
+    810
+  ],
+  "dpr": 1,
+  "cache": "Fresh isolated browser context; operating-system and driver caches not reset",
+  "measurement": "Intervals between completed-GPU notifications, at most three in-flight submissions. Separate submission intervals are in lifecycle_validation.json; completion notification batching can have longer tails than actual frame submission.",
+  "checks": {
+    "http": {
+      "status": "passed",
+      "http": 200
+    },
+    "backend": {
+      "status": "passed"
+    },
+    "performance": {
+      "status": "passed",
+      "target60": false,
+      "floor30": true
+    },
+    "mouseLook": {
+      "status": "passed"
+    },
+    "routes": {
+      "status": "passed",
+      "method": "Real keyboard forward/shift input, waypoint steering through the live controller, ordinary GPU-completed render loop; no simulated-only movement acceptance"
+    },
+    "solids": {
+      "status": "passed",
+      "cabinWalls": true,
+      "lakeBlocked": true
+    },
+    "pause": {
+      "status": "passed",
+      "observed": {
+        "active": false,
+        "keys": 0,
+        "pointer": false
+      }
+    },
+    "fullscreen": {
+      "status": "passed",
+      "limitation": "Isolated headless Chromium API and framebuffer verification; physical browser Escape interception and long-hold behavior were not tested",
+      "additional_evidence": "lifecycle_validation.json verifies water-visible growth and shrink of both actual GPU framebuffers, including 1601x901."
+    },
+    "focusLoss": {
+      "status": "passed",
+      "method": "Synthetic application focus-loss event"
+    },
+    "rendering": {
+      "status": "passed",
+      "errors": []
+    },
+    "reset": {
+      "status": "passed",
+      "evidence": "reset_water_validation.json"
+    },
+    "water_cycle": {
+      "status": "passed",
+      "evidence": "reset_water_validation.json"
+    }
+  },
+  "errors": [],
+  "startup": {
+    "backend": "WebGPU",
+    "firstCompleteMs": 26023,
+    "shaderPrepareMs": 12119.200000001118,
+    "adapter": {
+      "vendor": "nvidia",
+      "architecture": "ampere",
+      "device": "",
+      "description": "",
+      "isFallbackAdapter": false
+    },
+    "framebuffer": [
+      1440,
+      810
+    ],
+    "sceneSamples": [
+      {
+        "width": 1440,
+        "height": 810,
+        "samples": 4
+      }
+    ],
+    "retainedTriangles": 696407851,
+    "resources": {
+      "geometries": 823,
+      "textures": 104,
+      "attributes": 512,
+      "indexAttributes": 321,
+      "storageAttributes": 2,
+      "indirectStorageAttributes": 2,
+      "readbackBuffers": 0,
+      "programs": 82,
+      "renderTargets": 5,
+      "total": 3659804959,
+      "texturesSize": 2615833136,
+      "attributesSize": 746336772,
+      "indexAttributesSize": 229487208,
+      "storageAttributesSize": 67108864,
+      "indirectStorageAttributesSize": 13520,
+      "readbackBuffersSize": 0,
+      "programsSize": 1025459
+    },
+    "timer_definition": "From GLB/resource-load start; initial renderer, sky and config setup precedes this timer."
+  },
+  "performance": [
+    {
+      "name": "reference",
+      "count": 467,
+      "meanMs": 16.77301927194861,
+      "fps": 59.619558279075704,
+      "p95Ms": 17.59999999962747,
+      "p99Ms": 38.100000001490116,
+      "maxMs": 47.59999999962747,
+      "over50Ms": 0
+    },
+    {
+      "name": "aerial",
+      "count": 469,
+      "meanMs": 16.73688699360659,
+      "fps": 59.74826742762828,
+      "p95Ms": 17.40000000037253,
+      "p99Ms": 37.69999999925494,
+      "maxMs": 59.19999999925494,
+      "over50Ms": 3
+    },
+    {
+      "name": "forest",
+      "count": 467,
+      "meanMs": 16.809207708776253,
+      "fps": 59.49120370961269,
+      "p95Ms": 17.90000000037253,
+      "p99Ms": 39.90000000037253,
+      "maxMs": 52.90000000037253,
+      "over50Ms": 3
+    },
+    {
+      "name": "cabin",
+      "count": 468,
+      "meanMs": 16.77628205127966,
+      "fps": 59.607963012503234,
+      "p95Ms": 18,
+      "p99Ms": 39.19999999925494,
+      "maxMs": 55,
+      "over50Ms": 2
+    },
+    {
+      "name": "bridge",
+      "count": 471,
+      "meanMs": 16.667091295119146,
+      "fps": 59.998471376516896,
+      "p95Ms": 17.200000001117587,
+      "p99Ms": 20.399999998509884,
+      "maxMs": 55.59999999962747,
+      "over50Ms": 3
+    },
+    {
+      "name": "reverse",
+      "count": 471,
+      "meanMs": 16.65647558386649,
+      "fps": 60.03671034517067,
+      "p95Ms": 22.90000000037253,
+      "p99Ms": 30.59999999962747,
+      "maxMs": 43.30000000074506,
+      "over50Ms": 0
+    }
+  ],
+  "routes": [
+    {
+      "route": 0,
+      "complete": true,
+      "reachedWaypoint": 6,
+      "waypoints": 6,
+      "elapsedMs": 10416.300000000745,
+      "start": [
+        4,
+        4.73567054149926,
+        50
+      ],
+      "end": [
+        40.22245633488099,
+        4.583935022150491,
+        -2.8289393977408963
+      ],
+      "maxSupportError": 0.007403542284043496,
+      "errors": [],
+      "performance": {
+        "count": 612,
+        "meanMs": 16.737908496731418,
+        "fps": 59.744621031670725,
+        "p95Ms": 17.700000001117587,
+        "p99Ms": 25.200000001117587,
+        "maxMs": 45.59999999962747,
+        "over50Ms": 0
+      },
+      "failure": null
+    },
+    {
+      "route": 1,
+      "complete": true,
+      "reachedWaypoint": 8,
+      "waypoints": 8,
+      "elapsedMs": 12099.700000001118,
+      "start": [
+        40.5,
+        4.864512851974178,
+        -3
+      ],
+      "end": [
+        21.602630397887474,
+        9.044052763115928,
+        -63.35072785781133
+      ],
+      "maxSupportError": 0.13979170034831867,
+      "errors": [],
+      "performance": {
+        "count": 711,
+        "meanMs": 16.784247538680013,
+        "fps": 59.57967419721721,
+        "p95Ms": 21.09999999962747,
+        "p99Ms": 42.600000001490116,
+        "maxMs": 52.69999999925494,
+        "over50Ms": 2
+      },
+      "failure": null
+    },
+    {
+      "route": 2,
+      "complete": true,
+      "reachedWaypoint": 5,
+      "waypoints": 5,
+      "elapsedMs": 4827.39999999851,
+      "start": [
+        32,
+        3.514133151866079,
+        -50
+      ],
+      "end": [
+        1.789136622277043,
+        2.5593546551702717,
+        -51.41566568417014
+      ],
+      "maxSupportError": 0.0069324289135601624,
+      "errors": [],
+      "performance": {
+        "count": 273,
+        "meanMs": 16.774725274725274,
+        "fps": 59.613494923026536,
+        "p95Ms": 17.600000001490116,
+        "p99Ms": 29.40000000037253,
+        "maxMs": 35.40000000037253,
+        "over50Ms": 0
+      },
+      "failure": null
+    },
+    {
+      "route": 3,
+      "complete": true,
+      "reachedWaypoint": 16,
+      "waypoints": 16,
+      "elapsedMs": 35338.59999999963,
+      "start": [
+        4,
+        4.817759244697665,
+        35
+      ],
+      "end": [
+        1.4200346301264781,
+        2.5840777287036305,
+        -51.404135883141855
+      ],
+      "maxSupportError": 0.14208073362362938,
+      "errors": [],
+      "performance": {
+        "count": 2097,
+        "meanMs": 16.770815450643067,
+        "fps": 59.62739277306016,
+        "p95Ms": 17.699999999254942,
+        "p99Ms": 30.699999999254942,
+        "maxMs": 68.59999999962747,
+        "over50Ms": 5
+      },
+      "failure": null
+    },
+    {
+      "route": 4,
+      "complete": true,
+      "reachedWaypoint": 4,
+      "waypoints": 4,
+      "elapsedMs": 3997.5999999996275,
+      "start": [
+        1.5,
+        2.5822658345303577,
+        -51.4
+      ],
+      "end": [
+        21.196892001131285,
+        9.032560926442871,
+        -63.57259427607033
+      ],
+      "maxSupportError": 0.02477212507370119,
+      "errors": [],
+      "performance": {
+        "count": 229,
+        "meanMs": 16.702183406108656,
+        "fps": 59.87241162938374,
+        "p95Ms": 24.5,
+        "p99Ms": 45.19999999925494,
+        "maxMs": 54,
+        "over50Ms": 1
+      },
+      "failure": null
+    }
+  ],
+  "fullscreen": [
+    {
+      "cycle": 0,
+      "grown": {
+        "completed": 7614,
+        "framebuffer": [
+          1920,
+          1080
+        ],
+        "reflection": [
+          1920,
+          1080
+        ],
+        "fullscreen": true
+      },
+      "escaped": {
+        "active": false,
+        "fullscreen": true,
+        "completed": 7633
+      },
+      "shrunk": {
+        "completed": 7646,
+        "framebuffer": [
+          1440,
+          810
+        ],
+        "reflection": [
+          1920,
+          1080
+        ]
+      },
+      "passed": true
+    },
+    {
+      "cycle": 1,
+      "grown": {
+        "completed": 7660,
+        "framebuffer": [
+          1601,
+          901
+        ],
+        "reflection": [
+          1601,
+          901
+        ],
+        "fullscreen": true
+      },
+      "escaped": {
+        "active": false,
+        "fullscreen": true,
+        "completed": 7680
+      },
+      "shrunk": {
+        "completed": 7694,
+        "framebuffer": [
+          1440,
+          810
+        ],
+        "reflection": [
+          1601,
+          901
+        ]
+      },
+      "passed": true
+    }
+  ],
+  "finalErrors": [],
+  "lifecycle_evidence": "lifecycle_validation.json",
+  "clean_install_and_build": {
+    "status": "passed",
+    "commands": [
+      "npm ci --no-audit --no-fund",
+      "npm run build"
+    ],
+    "note": "Owned preview process released its Windows native-module handle before the clean install; no user application was closed."
+  }
+}

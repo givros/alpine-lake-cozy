@@ -1,0 +1,257 @@
+{
+  "representative_evidence": "renders/tree_representative.png",
+  "families": [
+    {
+      "mesh": "Spruce_Foliage_Prototype_0_Irregular_0",
+      "owners": 205,
+      "source_vertices": 26460,
+      "new_vertices": 79380,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_0_Irregular_1",
+      "owners": 209,
+      "source_vertices": 26460,
+      "new_vertices": 79380,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_0_Irregular_2",
+      "owners": 193,
+      "source_vertices": 26460,
+      "new_vertices": 79380,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_1_Irregular_0",
+      "owners": 201,
+      "source_vertices": 26460,
+      "new_vertices": 79380,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_1_Irregular_1",
+      "owners": 213,
+      "source_vertices": 26460,
+      "new_vertices": 79380,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_1_Irregular_2",
+      "owners": 203,
+      "source_vertices": 26460,
+      "new_vertices": 79380,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_2_Irregular_0",
+      "owners": 182,
+      "source_vertices": 28350,
+      "new_vertices": 85050,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_2_Irregular_1",
+      "owners": 183,
+      "source_vertices": 28350,
+      "new_vertices": 85050,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_2_Irregular_2",
+      "owners": 210,
+      "source_vertices": 28350,
+      "new_vertices": 85050,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_3_Irregular_0",
+      "owners": 199,
+      "source_vertices": 30555,
+      "new_vertices": 91665,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_3_Irregular_1",
+      "owners": 196,
+      "source_vertices": 30555,
+      "new_vertices": 91665,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_3_Irregular_2",
+      "owners": 205,
+      "source_vertices": 30555,
+      "new_vertices": 91665,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_4_Irregular_0",
+      "owners": 211,
+      "source_vertices": 30240,
+      "new_vertices": 90720,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_4_Irregular_1",
+      "owners": 190,
+      "source_vertices": 30240,
+      "new_vertices": 90720,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_4_Irregular_2",
+      "owners": 182,
+      "source_vertices": 30240,
+      "new_vertices": 90720,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_5_Irregular_0",
+      "owners": 191,
+      "source_vertices": 31500,
+      "new_vertices": 94500,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_5_Irregular_1",
+      "owners": 183,
+      "source_vertices": 31500,
+      "new_vertices": 94500,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Foliage_Prototype_5_Irregular_2",
+      "owners": 187,
+      "source_vertices": 31500,
+      "new_vertices": 94500,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_0_Irregular_0",
+      "owners": 205,
+      "source_vertices": 11090,
+      "new_vertices": 33270,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_0_Irregular_1",
+      "owners": 209,
+      "source_vertices": 11090,
+      "new_vertices": 33270,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_0_Irregular_2",
+      "owners": 193,
+      "source_vertices": 11090,
+      "new_vertices": 33270,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_1_Irregular_0",
+      "owners": 201,
+      "source_vertices": 11246,
+      "new_vertices": 33738,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_1_Irregular_1",
+      "owners": 213,
+      "source_vertices": 11246,
+      "new_vertices": 33738,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_1_Irregular_2",
+      "owners": 203,
+      "source_vertices": 11246,
+      "new_vertices": 33738,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_2_Irregular_0",
+      "owners": 182,
+      "source_vertices": 11976,
+      "new_vertices": 35928,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_2_Irregular_1",
+      "owners": 183,
+      "source_vertices": 11976,
+      "new_vertices": 35928,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_2_Irregular_2",
+      "owners": 210,
+      "source_vertices": 11976,
+      "new_vertices": 35928,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_3_Irregular_0",
+      "owners": 199,
+      "source_vertices": 12806,
+      "new_vertices": 38418,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_3_Irregular_1",
+      "owners": 196,
+      "source_vertices": 12806,
+      "new_vertices": 38418,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_3_Irregular_2",
+      "owners": 205,
+      "source_vertices": 12806,
+      "new_vertices": 38418,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_4_Irregular_0",
+      "owners": 211,
+      "source_vertices": 12732,
+      "new_vertices": 38196,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_4_Irregular_1",
+      "owners": 190,
+      "source_vertices": 12732,
+      "new_vertices": 38196,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_4_Irregular_2",
+      "owners": 182,
+      "source_vertices": 12732,
+      "new_vertices": 38196,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_5_Irregular_0",
+      "owners": 191,
+      "source_vertices": 13236,
+      "new_vertices": 39708,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_5_Irregular_1",
+      "owners": 183,
+      "source_vertices": 13236,
+      "new_vertices": 39708,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    },
+    {
+      "mesh": "Spruce_Wood_Prototype_5_Irregular_2",
+      "owners": 187,
+      "source_vertices": 13236,
+      "new_vertices": 39708,
+      "construction": "Original branching stem with two subordinate complete bough systems, real twig sprays and attached branches; no crown proxy volume."
+    }
+  ]
+}

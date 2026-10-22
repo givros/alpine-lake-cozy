@@ -1,0 +1,292 @@
+{
+  "blender": "5.1.2",
+  "objects": 77118,
+  "camera": {
+    "name": "Reference_Camera",
+    "mesh": null,
+    "position": [
+      0.0,
+      -52.5,
+      12.0
+    ],
+    "size": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "vertices": 0,
+    "materials": []
+  },
+  "named": [
+    {
+      "name": "Reference_Camera",
+      "mesh": null,
+      "position": [
+        0.0,
+        -52.5,
+        12.0
+      ],
+      "size": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 0,
+      "materials": []
+    },
+    {
+      "name": "Terrain_Continuous_Shore",
+      "mesh": "Terrain_Continuous_Shore",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size": [
+        182.5,
+        185.0,
+        12.236906051635742
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 60516,
+      "materials": [
+        "Ground"
+      ]
+    },
+    {
+      "name": "Valley_Continuation",
+      "mesh": "Surroundings_Continuous_Valley_36",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size": [
+        900.0001220703125,
+        795.0001220703125,
+        145.9575653076172
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 335194,
+      "materials": [
+        "Ground"
+      ]
+    },
+    {
+      "name": "Alpine_Massif_Measured",
+      "mesh": "Alpine_Massif_Measured",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size": [
+        920.8842163085938,
+        920.8800659179688,
+        247.74789428710938
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 1638400,
+      "materials": [
+        "Alpine_Geology"
+      ]
+    },
+    {
+      "name": "Alpine_Snowpack_Deposits",
+      "mesh": "Supported_Alpine_Deposits_41",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size": [
+        920.8842163085938,
+        784.080078125,
+        217.34503173828125
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 340176,
+      "materials": [
+        "Glacier_Snow"
+      ]
+    },
+    {
+      "name": "Lake_Surface",
+      "mesh": "Lake_Surface",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "size": [
+        114.08209228515625,
+        79.42283630371094,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 257,
+      "materials": [
+        "LakeWater"
+      ]
+    }
+  ],
+  "native": [
+    {
+      "name": "Native_Adult_Fir_0",
+      "mesh": "NurbsPath.002",
+      "position": [
+        -23.5,
+        -24.5,
+        3.2787435054779053
+      ],
+      "size": [
+        8.28585433959961,
+        8.15021800994873,
+        24.000001907348633
+      ],
+      "scale": [
+        1.2681565284729004,
+        1.2681565284729004,
+        1.2681565284729004
+      ],
+      "vertices": 5428923,
+      "materials": [
+        "fir_tree_01_bark",
+        "fir_tree_01_trunk_a",
+        "fir_tree_01_twig",
+        "fir_tree_01_dead_branches"
+      ]
+    },
+    {
+      "name": "Native_Adult_Fir_3",
+      "mesh": "NurbsPath.002",
+      "position": [
+        48.0,
+        29.0,
+        3.6790263652801514
+      ],
+      "size": [
+        5.869146823883057,
+        5.773070812225342,
+        17.0
+      ],
+      "scale": [
+        0.8982775211334229,
+        0.8982775211334229,
+        0.8982775211334229
+      ],
+      "vertices": 5428923,
+      "materials": [
+        "fir_tree_01_bark",
+        "fir_tree_01_trunk_a",
+        "fir_tree_01_twig",
+        "fir_tree_01_dead_branches"
+      ]
+    },
+    {
+      "name": "Native_Adult_Fir_4",
+      "mesh": "NurbsPath.004",
+      "position": [
+        51.0,
+        44.0,
+        4.727920055389404
+      ],
+      "size": [
+        6.788515567779541,
+        7.325641632080078,
+        17.0
+      ],
+      "scale": [
+        1.2095162868499756,
+        1.2095162868499756,
+        1.2095162868499756
+      ],
+      "vertices": 2951462,
+      "materials": [
+        "fir_tree_01_bark",
+        "fir_tree_01_trunk_b",
+        "fir_tree_01_twig",
+        "fir_tree_01_dead_branches"
+      ]
+    },
+    {
+      "name": "Native_Adult_Fir_5",
+      "mesh": "NurbsPath.004",
+      "position": [
+        34.0,
+        62.0,
+        8.256396293640137
+      ],
+      "size": [
+        6.389190673828125,
+        6.894721508026123,
+        15.999999046325684
+      ],
+      "scale": [
+        1.1383682489395142,
+        1.1383682489395142,
+        1.1383682489395142
+      ],
+      "vertices": 2951462,
+      "materials": [
+        "fir_tree_01_bark",
+        "fir_tree_01_trunk_b",
+        "fir_tree_01_twig",
+        "fir_tree_01_dead_branches"
+      ]
+    }
+  ],
+  "bridge": [
+    {
+      "name": "Bridge",
+      "mesh": null,
+      "position": [
+        -14.017338752746582,
+        -24.0,
+        4.487742900848389
+      ],
+      "size": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "vertices": 0,
+      "materials": []
+    }
+  ]
+}

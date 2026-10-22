@@ -1,0 +1,18 @@
+{
+  "fresh_process": true,
+  "loaded_file": "E:\\Dev\\cosy-lake-cosy-2\\artifacts\\alpine-reference\\Alpine_Lake.blend",
+  "blender": "5.1.2",
+  "rendered_cameras": [
+    "Reference_Camera",
+    "Inspection_Cabin",
+    "Inspection_Bridge"
+  ],
+  "engine": "CYCLES",
+  "device": "GPU",
+  "samples": 16,
+  "resolution": [
+    1024,
+    576
+  ],
+  "all_requested_source_views_rendered": true
+}

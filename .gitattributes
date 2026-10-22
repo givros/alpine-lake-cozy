@@ -1,0 +1,5 @@
+*.gzpart binary
+*.bin binary
+*.png binary
+*.jpg binary
+*.hdr binary

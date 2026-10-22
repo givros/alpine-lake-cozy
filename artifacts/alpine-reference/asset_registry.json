@@ -1,0 +1,127 @@
+[
+  {
+    "id": "CABIN_1",
+    "role": "hero",
+    "parts": 371,
+    "support": "Terrain_Continuous_Shore",
+    "position": [
+      40.5,
+      10.5,
+      5.234512851974178
+    ],
+    "entry": [
+      40.5,
+      4.0
+    ],
+    "construction": [
+      "split log walls and actual apertures",
+      "framed glazing and shutters",
+      "door panels and ironwork",
+      "solid slate roof, eaves and rafters",
+      "stone foundation and open masonry flue",
+      "porch posts, braces, joists, rails and steps"
+    ],
+    "interior": "Closed doors, no furnished interiors requested",
+    "provenance": "Original editable construction reused locally and revised"
+  },
+  {
+    "id": "CABIN_2",
+    "role": "supporting residence",
+    "parts": 344,
+    "support": "Terrain_Continuous_Shore",
+    "position": [
+      1.5,
+      57.5,
+      3.105541553219348
+    ],
+    "entry": [
+      1.5,
+      52.75
+    ],
+    "construction": [
+      "split log walls and actual apertures",
+      "framed glazing and shutters",
+      "door panels and ironwork",
+      "solid slate roof, eaves and rafters",
+      "stone foundation and open masonry flue",
+      "porch posts, braces, joists, rails and steps"
+    ],
+    "interior": "Closed doors, no furnished interiors requested",
+    "provenance": "Original editable construction reused locally and revised"
+  },
+  {
+    "id": "CABIN_3",
+    "role": "supporting residence",
+    "parts": 361,
+    "support": "Terrain_Continuous_Shore",
+    "position": [
+      21.5,
+      70.5,
+      8.992681244960075
+    ],
+    "entry": [
+      21.5,
+      65.1
+    ],
+    "construction": [
+      "split log walls and actual apertures",
+      "framed glazing and shutters",
+      "door panels and ironwork",
+      "solid slate roof, eaves and rafters",
+      "stone foundation and open masonry flue",
+      "porch posts, braces, joists, rails and steps"
+    ],
+    "interior": "Closed doors, no furnished interiors requested",
+    "provenance": "Original editable construction reused locally and revised"
+  },
+  {
+    "id": "BRIDGE",
+    "role": "hero traversable crossing",
+    "support": "bridge deck plus actual banks",
+    "geometry": "Individual deck boards, stringers, posts, rails and attachments",
+    "runtime_support": {
+      "x0": -13.037338752746582,
+      "x1": -4.9973387527465825,
+      "y0": -19.0,
+      "y1": -17.0,
+      "z": 1.6077429008483888,
+      "arch_height": 0.09,
+      "span": 8.04
+    }
+  },
+  {
+    "id": "CONIFERS",
+    "role": "groves and forest enclosure",
+    "prototypes": "18 constructed full-crown spruce variants plus native CC0 fir and sapling botanical meshes",
+    "parts": [
+      "continuous bark stem",
+      "primary and secondary boughs",
+      "folded needle sprays",
+      "soil datum"
+    ],
+    "provenance": [
+      "Original constructed spruces",
+      "https://polyhaven.com/a/fir_tree_01",
+      "https://polyhaven.com/a/fir_sapling"
+    ]
+  },
+  {
+    "id": "ROCKS",
+    "provenance": [
+      "https://polyhaven.com/a/rock_moss_set_01",
+      "https://polyhaven.com/a/rock_moss_set_02"
+    ],
+    "license": "CC0",
+    "support_evidence": "surface_revision.json"
+  },
+  {
+    "id": "SKY",
+    "provenance": "Original ImageGen sky-only equirectangular texture, native resolution",
+    "source": "references/alpine_sunset_sky_v2.png"
+  },
+  {
+    "id": "MASSIF",
+    "construction": "Measured alpine terrain reshaped against the supplied reference skyline with supported snow deposits",
+    "evidence": "reconstruction_changes.json"
+  }
+]

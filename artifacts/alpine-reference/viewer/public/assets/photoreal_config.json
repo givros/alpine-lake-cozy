@@ -1,0 +1,109 @@
+{
+  "sky": {
+    "image": "alpine_sunset_sky_v2.png",
+    "source_sun_uv": [
+      0.6566,
+      0.53
+    ],
+    "sun_direction_blender": [
+      -0.4933466060227351,
+      0.8641040553973967,
+      0.09966598101469397
+    ],
+    "world_rotation_quaternion_blender": [
+      0.034031482960755456,
+      0,
+      0,
+      0.9994207613250247
+    ],
+    "solar_disc": "Analytic angular solar disk aligned with the shadow-casting source; native HDR supplies cloud radiance",
+    "background_source_sun": "native HDR lobe; yaw adjusted together with direct light",
+    "format": "png",
+    "reference_grade": "sunward neutral-cloud amber grade; blue opposing sky retained",
+    "cloud_tint": [
+      3.1,
+      1.05,
+      0.32
+    ],
+    "cloud_grade": 0,
+    "cloud_spread": -0.05,
+    "angular_solar_radius_radians": 0.0063,
+    "environment_image": "kloppenheim_06_puresky_4k.hdr",
+    "environment_format": "hdr",
+    "analytic_solar_disk": true,
+    "provenance": "Original ImageGen sky-only equirectangular panorama, no landscape projection; retained at native output resolution"
+  },
+  "terrain": {
+    "grass": "leafy_grass",
+    "forest": "forest_ground_04",
+    "trail": "rocky_trail",
+    "uv_cycles_per_metre": 0.35,
+    "weights": "Color.r trail, Color.g litter, Color.b exposed geology",
+    "grass_tint_linear": [
+      0.42,
+      1,
+      0.28
+    ],
+    "grass_rock": "aerial_grass_rock, 70% substrate blend at original 2K"
+  },
+  "mountain": {
+    "rock": "rock_face_03",
+    "snow": "snow_02",
+    "rock_saturation": 0.6,
+    "rock_tint_linear": [
+      0.38,
+      0.4,
+      0.43
+    ],
+    "weights": "Color.r snow, Color.g lower-slope vegetation"
+  },
+  "flora_counts": {
+    "grass": 15808,
+    "yellow_flowers": 1772,
+    "white_flowers": 194,
+    "blue_flowers": 75,
+    "ferns": 409
+  },
+  "lighting": {
+    "exposure": 1.05,
+    "environment": 0.45,
+    "background": 0.8,
+    "hemisphere": 1.2,
+    "sun": 9,
+    "sun_rgb": [
+      1,
+      0.5,
+      0.2
+    ],
+    "bounce": 2.1,
+    "bounce_transport": "Documented broad warm valley indirect approximation; primary visibility comes from the real shadowed solar source.",
+    "bounce_rgb": [
+      1,
+      0.55,
+      0.23
+    ],
+    "hemisphere_color": 10861531,
+    "sun_direction_blender": [
+      -0.4933466060227351,
+      0.8641040553973967,
+      0.09966598101469397
+    ],
+    "bounce_position_runtime": [
+      -200,
+      125,
+      65
+    ]
+  },
+  "materials": {
+    "roof_slate_tint_linear": [
+      0.1056,
+      0.112,
+      0.125
+    ],
+    "wood_tint_linear": [
+      0.62,
+      0.68,
+      0.65
+    ]
+  }
+}

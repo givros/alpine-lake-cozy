@@ -1,0 +1,80 @@
+{
+  "pass": "2",
+  "views": [
+    {
+      "name": "reference",
+      "completed": 22,
+      "errors": []
+    },
+    {
+      "name": "aerial",
+      "completed": 38,
+      "errors": []
+    },
+    {
+      "name": "west",
+      "completed": 53,
+      "errors": []
+    },
+    {
+      "name": "east",
+      "completed": 67,
+      "errors": []
+    },
+    {
+      "name": "reverse",
+      "completed": 81,
+      "errors": []
+    },
+    {
+      "name": "cabin",
+      "completed": 96,
+      "errors": []
+    },
+    {
+      "name": "bridge",
+      "completed": 110,
+      "errors": []
+    },
+    {
+      "name": "forest",
+      "completed": 141,
+      "errors": []
+    },
+    {
+      "name": "shore",
+      "completed": 154,
+      "errors": []
+    }
+  ],
+  "stats": {
+    "backend": "WebGPU",
+    "firstCompleteMs": 77972.19999999925,
+    "shaderPrepareMs": 12715.299999998882,
+    "retainedSceneTriangles": 696407851,
+    "source": {
+      "originalMeshes": 78828,
+      "instances": 77616,
+      "staticBatches": 12
+    },
+    "framebuffer": [
+      1440,
+      810
+    ],
+    "treeImpostors": {
+      "placements": 3543,
+      "prototypeLayers": 18,
+      "viewsPerPrototype": 8,
+      "transitionMetres": [
+        80,
+        110
+      ],
+      "submitUntilMetres": 125,
+      "sourceModelsRetained": true,
+      "allSourceTreesPreloaded": true,
+      "transition": "bounded alpha coverage with four MSAA samples; no screen-space noise"
+    },
+    "errors": []
+  },
+  "errors": []
+}

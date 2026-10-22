@@ -1,0 +1,26 @@
+{
+  "reset": {
+    "position": [
+      4,
+      4.817759244697665,
+      35
+    ],
+    "spawn": [
+      4,
+      -35
+    ],
+    "horizontalError": 0,
+    "supportError": 0,
+    "active": true
+  },
+  "errors": [],
+  "resetPassed": true,
+  "water_time_3_vs_0": {"mean_absolute_byte_difference": 0.2055901348879744, "changed_pixels_above_one_byte": 52052},
+  "water_time_12_vs_0": {"mean_absolute_byte_difference": 0.0000011431184270690443, "changed_pixels_above_one_byte": 0},
+  "water_cycle_verified": true,
+  "waterEvidence": [
+    "../comparisons/final_water_0.png",
+    "../comparisons/final_water_3.png",
+    "../comparisons/final_water_12.png"
+  ]
+}

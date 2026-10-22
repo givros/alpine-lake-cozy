@@ -1,0 +1,25 @@
+{
+  "lossless": true,
+  "checks": [
+    {
+      "asset": "alpine-lake.glb",
+      "sha256": "2730ec6ba375d22f736258fad18f23156ba956ca3d2095a7099014f140f95378",
+      "matchesOriginal": true
+    },
+    {
+      "asset": "adaptive-lod.bin",
+      "sha256": "a91dbcfe04baabfd779331b65b33da54ea2d80f3ac4efe40ffcdc020465c39d9",
+      "matchesOriginal": true
+    },
+    {
+      "asset": "tree-impostors/albedo.bin",
+      "sha256": "c554cde9ca26a01f0954d40369676ffda2ae125818b0ac0bd2b01cb393bca455",
+      "matchesOriginal": true
+    },
+    {
+      "asset": "tree-impostors/normal.bin",
+      "sha256": "04f3c71f3d345baca1f240e095f0e82ee7bd0451a897b465861efdd1e78f5f3e",
+      "matchesOriginal": true
+    }
+  ]
+}

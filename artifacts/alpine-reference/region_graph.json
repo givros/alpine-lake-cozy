@@ -1,0 +1,264 @@
+{
+  "regions": [
+    {
+      "id": "REG_LAKE",
+      "role": "calm open water"
+    },
+    {
+      "id": "REG_FOREGROUND",
+      "role": "stream bridge, alpine meadow and path arrival"
+    },
+    {
+      "id": "REG_CABINS",
+      "role": "three separate woodland homes and connecting trail"
+    },
+    {
+      "id": "REG_FOREST",
+      "role": "enclosure and shore loop"
+    },
+    {
+      "id": "REG_MOUNTAINS",
+      "role": "nonplayable dramatic alpine skyline"
+    }
+  ],
+  "connections": [
+    {
+      "from": "REG_FOREGROUND",
+      "to": "REG_CABINS",
+      "route_ids": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "from": "REG_FOREGROUND",
+      "to": "REG_FOREST",
+      "route_ids": [
+        3
+      ],
+      "crossing": "BRIDGE"
+    },
+    {
+      "from": "REG_FOREST",
+      "to": "REG_CABINS",
+      "route_ids": [
+        3
+      ]
+    },
+    {
+      "from": "REG_LAKE",
+      "to": "REG_FOREGROUND",
+      "connection": "Shore contact and stream outlet; open water is not walkable"
+    },
+    {
+      "from": "REG_MOUNTAINS",
+      "to": "REG_FOREST",
+      "connection": "Composed lower slopes; peaks are scenery"
+    }
+  ],
+  "paths": [
+    {
+      "id": "PATH_0",
+      "points": [
+        [
+          4,
+          -50
+        ],
+        [
+          4,
+          -35
+        ],
+        [
+          12,
+          -24
+        ],
+        [
+          26,
+          -12
+        ],
+        [
+          37,
+          1
+        ],
+        [
+          40.5,
+          3
+        ]
+      ],
+      "terminal_roles": [
+        "junction or trail spawn",
+        "cabin arrival or loop junction"
+      ]
+    },
+    {
+      "id": "PATH_1",
+      "points": [
+        [
+          40.5,
+          3
+        ],
+        [
+          49,
+          3
+        ],
+        [
+          49,
+          15
+        ],
+        [
+          44.5,
+          22
+        ],
+        [
+          42.0,
+          40.5
+        ],
+        [
+          32.0,
+          50.0
+        ],
+        [
+          23.5,
+          56.0
+        ],
+        [
+          21.5,
+          63.7
+        ]
+      ],
+      "terminal_roles": [
+        "junction or trail spawn",
+        "cabin arrival or loop junction"
+      ]
+    },
+    {
+      "id": "PATH_2",
+      "points": [
+        [
+          32.0,
+          50.0
+        ],
+        [
+          20.0,
+          52.5
+        ],
+        [
+          8.0,
+          53.5
+        ],
+        [
+          5.8,
+          51.4
+        ],
+        [
+          1.5,
+          51.4
+        ]
+      ],
+      "terminal_roles": [
+        "junction or trail spawn",
+        "cabin arrival or loop junction"
+      ]
+    },
+    {
+      "id": "PATH_3",
+      "points": [
+        [
+          4,
+          -35
+        ],
+        [
+          8.5,
+          -28
+        ],
+        [
+          -3.717338752746582,
+          -18.0
+        ],
+        [
+          -4.9973387527465825,
+          -18.0
+        ],
+        [
+          -13.037338752746582,
+          -18.0
+        ],
+        [
+          -14.317338752746583,
+          -18.0
+        ],
+        [
+          -23.5,
+          -13.0
+        ],
+        [
+          -55.0,
+          -13.0
+        ],
+        [
+          -67.5,
+          4.5
+        ],
+        [
+          -70.5,
+          27.5
+        ],
+        [
+          -66.0,
+          54.0
+        ],
+        [
+          -34.5,
+          67.0
+        ],
+        [
+          -6.5,
+          65.0
+        ],
+        [
+          -5.5,
+          57.5
+        ],
+        [
+          -5.5,
+          51.4
+        ],
+        [
+          1.5,
+          51.4
+        ]
+      ],
+      "terminal_roles": [
+        "junction or trail spawn",
+        "cabin arrival or loop junction"
+      ]
+    },
+    {
+      "id": "PATH_4",
+      "points": [
+        [
+          1.5,
+          51.4
+        ],
+        [
+          6,
+          51.4
+        ],
+        [
+          7,
+          58
+        ],
+        [
+          21.5,
+          63.7
+        ]
+      ],
+      "terminal_roles": [
+        "junction or trail spawn",
+        "cabin arrival or loop junction"
+      ]
+    }
+  ]
+}

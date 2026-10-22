@@ -1,0 +1,44 @@
+{
+  "alpine-lake.glb": {
+    "parts": [
+      "alpine-lake.glb.000.gzpart",
+      "alpine-lake.glb.001.gzpart",
+      "alpine-lake.glb.002.gzpart",
+      "alpine-lake.glb.003.gzpart",
+      "alpine-lake.glb.004.gzpart",
+      "alpine-lake.glb.005.gzpart",
+      "alpine-lake.glb.006.gzpart",
+      "alpine-lake.glb.007.gzpart",
+      "alpine-lake.glb.008.gzpart",
+      "alpine-lake.glb.009.gzpart",
+      "alpine-lake.glb.010.gzpart"
+    ],
+    "originalBytes": 1226268928,
+    "compressedBytes": 546148900,
+    "sha256": "2730ec6ba375d22f736258fad18f23156ba956ca3d2095a7099014f140f95378"
+  },
+  "adaptive-lod.bin": {
+    "parts": [
+      "adaptive-lod.bin.000.gzpart"
+    ],
+    "originalBytes": 69245184,
+    "compressedBytes": 21803456,
+    "sha256": "a91dbcfe04baabfd779331b65b33da54ea2d80f3ac4efe40ffcdc020465c39d9"
+  },
+  "tree-impostors/albedo.bin": {
+    "parts": [
+      "tree-impostors-albedo.bin.000.gzpart"
+    ],
+    "originalBytes": 75497472,
+    "compressedBytes": 11691128,
+    "sha256": "c554cde9ca26a01f0954d40369676ffda2ae125818b0ac0bd2b01cb393bca455"
+  },
+  "tree-impostors/normal.bin": {
+    "parts": [
+      "tree-impostors-normal.bin.000.gzpart"
+    ],
+    "originalBytes": 75497472,
+    "compressedBytes": 14306639,
+    "sha256": "04f3c71f3d345baca1f240e095f0e82ee7bd0451a897b465861efdd1e78f5f3e"
+  }
+}

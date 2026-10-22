@@ -1,0 +1,929 @@
+{
+  "revision": "reference_04",
+  "blender": "5.1.2",
+  "visible_mesh_objects": 76968,
+  "unique_meshes": 1304,
+  "source_instanced_triangles": 696407851,
+  "invalid_positions": [],
+  "images": [
+    {
+      "name": "alpine_sunset_sky.png",
+      "size": [
+        1774,
+        887
+      ],
+      "packed": true
+    },
+    {
+      "name": "alpine_sunset_sky_v2.png",
+      "size": [
+        1774,
+        887
+      ],
+      "packed": true
+    },
+    {
+      "name": "boulder_01_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "boulder_01_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "boulder_01_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.001",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.002",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.003",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.004",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.005",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.006",
+      "size": [
+        2048,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "Diffuse.jpg.007",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Displacement.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fern_02_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fern_02_diff-fern_02_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fern_02_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fern_02_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_needles.png",
+      "size": [
+        512,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_branches_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_branches_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_branches_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_medium_branches_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_medium_branches_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_medium_branches_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_medium_twigs_diff-fir_sapling_medium_twigs_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_medium_twigs_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_medium_twigs_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_twigs_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_twigs_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_sapling_twigs_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_bark_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_bark_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_bark_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_trunk_a_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_trunk_a_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_trunk_a_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_trunk_b_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_trunk_b_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_trunk_b_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_twig_diff-fir_tree_01_twig_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_twig_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "fir_tree_01_twig_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_empodium_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_empodium_diff-flower_empodium_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_empodium_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_empodium_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_heliophila_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_heliophila_diff-flower_heliophila_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_heliophila_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_heliophila_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_stinkkruid_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_stinkkruid_diff-flower_stinkkruid_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_stinkkruid_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "flower_stinkkruid_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_bermuda_01_coverage.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_bermuda_01_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_bermuda_01_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_bermuda_01_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_bermuda_01_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_01_coverage.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_01_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_01_diff-grass_medium_01_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_01_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_01_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_02_coverage.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_02_Cutout_Coverage",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_02_diff-grass_medium_02_alpha",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_02_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "grass_medium_02_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.001",
+      "size": [
+        2048,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.002",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.003",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.004",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.005",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.006",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "nor_gl.jpg.007",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_01_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_01_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_01_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_02_diff",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_02_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "rock_moss_set_02_rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.001",
+      "size": [
+        2048,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.002",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.003",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.004",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.005",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.006",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "Rough.jpg.007",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "spruce_branch_photo.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "packed": true
+    },
+    {
+      "name": "timber_color.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "timber_normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "timber_rough.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "packed": true
+    }
+  ],
+  "missing_unpacked_images": [],
+  "camera_views": {
+    "Reference_Camera": [
+      [
+        0,
+        -52.5,
+        12
+      ],
+      [
+        0,
+        70,
+        1.3
+      ]
+    ],
+    "Inspection_Aerial": [
+      [
+        85,
+        -105,
+        115
+      ],
+      [
+        -5,
+        22.5,
+        2
+      ]
+    ],
+    "Inspection_West": [
+      [
+        -75,
+        -5,
+        18
+      ],
+      [
+        -255,
+        -90,
+        35
+      ]
+    ],
+    "Inspection_East": [
+      [
+        80,
+        -35,
+        18
+      ],
+      [
+        245,
+        -145,
+        45
+      ]
+    ],
+    "Inspection_Reverse": [
+      [
+        0,
+        -55,
+        12
+      ],
+      [
+        0,
+        -205,
+        32
+      ]
+    ],
+    "Inspection_Cabin": [
+      [
+        50,
+        -5,
+        11
+      ],
+      [
+        40.5,
+        10.5,
+        7
+      ]
+    ],
+    "Inspection_Bridge": [
+      [
+        -7,
+        -28,
+        6
+      ],
+      [
+        -9,
+        -18,
+        1.6
+      ]
+    ],
+    "Inspection_Forest": [
+      [
+        61,
+        22,
+        16
+      ],
+      [
+        53,
+        37,
+        14
+      ]
+    ],
+    "Inspection_Shore": [
+      [
+        -35,
+        -12,
+        5
+      ],
+      [
+        -20,
+        45,
+        6
+      ]
+    ]
+  },
+  "source_material_translation": {
+    "wood": "Photographic maps with principal-axis UVs and explicit linear albedo factor; same factor reconstructed in runtime",
+    "terrain": "Source semantic FLOAT32 layer weights translated by TSL",
+    "water": "Real channel mesh and source-supported ripples; runtime adds live optical normal flow and camera-correct lake reflections"
+  },
+  "invalid_corner_normals": [],
+  "source_solar_background": "Angular display disk aligned to the real sun; no duplicate irradiance contribution",
+  "normal_repair": [
+    {
+      "mesh": "Plane.5143",
+      "repaired_zero_fans": 4,
+      "geometry": "All positions, faces, UVs and materials preserved; only invalid corner normals repaired"
+    },
+    {
+      "mesh": "Plane.5122",
+      "repaired_zero_fans": 4,
+      "geometry": "All positions, faces, UVs and materials preserved; only invalid corner normals repaired"
+    },
+    {
+      "mesh": "Plane.2197",
+      "repaired_zero_fans": 16,
+      "geometry": "All positions, faces, UVs and materials preserved; only invalid corner normals repaired"
+    },
+    {
+      "mesh": "Cylinder",
+      "repaired_zero_fans": 6,
+      "geometry": "All positions, faces, UVs and materials preserved; only invalid corner normals repaired"
+    },
+    {
+      "mesh": "Cylinder.125",
+      "repaired_zero_fans": 6,
+      "geometry": "All positions, faces, UVs and materials preserved; only invalid corner normals repaired"
+    },
+    {
+      "mesh": "Cylinder.069",
+      "repaired_zero_fans": 6,
+      "geometry": "All positions, faces, UVs and materials preserved; only invalid corner normals repaired"
+    }
+  ],
+  "exported_normal_audit": "All GLB NORMAL arrays were checked independently and already contained finite nonzero normals; the source repair preserves the valid exported geometric result."
+}

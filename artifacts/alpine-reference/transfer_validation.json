@@ -1,0 +1,19 @@
+{
+  "export_expanded_triangles": 696407851,
+  "source_expanded_triangles": 696407851,
+  "mesh_resources": 1304,
+  "materials": 42,
+  "embedded_images": 62,
+  "compression_extensions": [],
+  "all_normals_finite_nonzero": true,
+  "all_positions_finite": true,
+  "required_materials": {
+    "Ground": true,
+    "Alpine_Geology": true,
+    "LakeWater": true,
+    "StreamWater": true,
+    "WindowGlow": true,
+    "Timber_Photographic": true
+  },
+  "exact_triangle_coverage": true
+}

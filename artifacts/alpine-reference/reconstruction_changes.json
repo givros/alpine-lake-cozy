@@ -1,0 +1,135 @@
+{
+  "source_revision": "reference_01",
+  "max_skyline_vertical_change_m": 25.145535019441894,
+  "snow_cells": 170133,
+  "replanted": 825,
+  "native_firs": [
+    {
+      "id": "Reference_Native_Fir_4",
+      "position": [
+        -13.0,
+        68.0,
+        2.1538257598876953
+      ],
+      "soil_datum": 2.23382568359375,
+      "scale": 1.3518123180278625,
+      "prototype": "NurbsPath.004"
+    },
+    {
+      "id": "Reference_Native_Fir_5",
+      "position": [
+        -3.0,
+        77.0,
+        5.128091812133789
+      ],
+      "soil_datum": 5.208091735839844,
+      "scale": 1.0330164739782621,
+      "prototype": "NurbsPath.001"
+    },
+    {
+      "id": "Reference_Native_Fir_6",
+      "position": [
+        10.0,
+        82.0,
+        7.154489517211914
+      ],
+      "soil_datum": 7.234489440917969,
+      "scale": 1.0039572145527702,
+      "prototype": "NurbsPath.002"
+    },
+    {
+      "id": "Reference_Native_Fir_7",
+      "position": [
+        16.0,
+        78.0,
+        9.078775405883789
+      ],
+      "soil_datum": 9.158775329589844,
+      "scale": 1.2095162845512455,
+      "prototype": "NurbsPath.004"
+    },
+    {
+      "id": "Reference_Native_Fir_8",
+      "position": [
+        32.0,
+        73.0,
+        10.013704299926758
+      ],
+      "soil_datum": 10.093704223632812,
+      "scale": 1.2396197687739146,
+      "prototype": "NurbsPath.001"
+    },
+    {
+      "id": "Reference_Native_Fir_9",
+      "position": [
+        38.0,
+        65.0,
+        8.013727188110352
+      ],
+      "soil_datum": 8.093727111816406,
+      "scale": 1.0567970679502845,
+      "prototype": "NurbsPath.002"
+    },
+    {
+      "id": "Reference_Native_Fir_10",
+      "position": [
+        44.0,
+        57.0,
+        5.654451370239258
+      ],
+      "soil_datum": 5.7344512939453125,
+      "scale": 1.280664301289554,
+      "prototype": "NurbsPath.004"
+    },
+    {
+      "id": "Reference_Native_Fir_11",
+      "position": [
+        46.0,
+        47.0,
+        3.857667922973633
+      ],
+      "soil_datum": 3.9376678466796875,
+      "scale": 1.1707520038420305,
+      "prototype": "NurbsPath.001"
+    },
+    {
+      "id": "Reference_Native_Fir_12",
+      "position": [
+        53.0,
+        35.0,
+        4.674409866333008
+      ],
+      "soil_datum": 4.7544097900390625,
+      "scale": 0.951117361155256,
+      "prototype": "NurbsPath.002"
+    },
+    {
+      "id": "Reference_Native_Fir_13",
+      "position": [
+        58.0,
+        22.0,
+        6.611040115356445
+      ],
+      "soil_datum": 6.6910400390625,
+      "scale": 1.3518123180278625,
+      "prototype": "NurbsPath.004"
+    },
+    {
+      "id": "Reference_Native_Fir_14",
+      "position": [
+        61.0,
+        5.0,
+        6.133768081665039
+      ],
+      "soil_datum": 6.213768005371094,
+      "scale": 1.5150908285014513,
+      "prototype": "NurbsPath.001"
+    }
+  ],
+  "removed_spruce_assemblies": [
+    "Forest_23",
+    "Forest_45",
+    "Forest_66",
+    "Forest_96"
+  ]
+}

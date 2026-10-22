@@ -1,0 +1,13 @@
+{
+  "scene": "Alpine Reference Reconstruction",
+  "characters": [],
+  "systems": [
+    {
+      "id": "water",
+      "cycle_seconds": 12,
+      "implementation": "Runtime TSL optical normal flow over real lake and stream geometry",
+      "source_geometry_static": true
+    }
+  ],
+  "vegetation": "Static, no wind requested"
+}

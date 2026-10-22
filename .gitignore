@@ -1,0 +1,11 @@
+node_modules/
+dist/
+pages-check/
+*.log
+*.blend
+*.blend1
+artifacts/alpine-reference/checkpoints/
+artifacts/alpine-reference/original-runtime/
+artifacts/alpine-reference/references/
+artifacts/alpine-reference/viewer/public/assets/alpine-lake.glb.gz
+artifacts/alpine-reference/viewer/output/
